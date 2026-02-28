@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgaldamez
 - 👀 I’m interested in any technology topic
-- 🌱 I’m currently learning python/django
+- 🌱 I’m currently learning DevOps
 
 
 <!---
